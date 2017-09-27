@@ -4,7 +4,7 @@ import glob
 
 print('analyze my data')
 
-#-----------------------
+#----------------------
 
 def analyze(filename):
 	'''
